@@ -2,10 +2,11 @@
     # > Python has only single line comment system.
     # > a comment ignored by interpreter(in short conversion of character 
         #to binary is not possible)
+    # for multiline comment we use """ comment """ triple cod
 
 
 print("hello world")   #print() is used to get same ouput on console
-a=2#this is new comment
+a=2 #this is new comment
 
 print("""this is krishna 
 

@@ -1,5 +1,5 @@
 # Integer:
-# a data type which contain 0-9 values only.
+# Integer is a data type which contain 0-9 values only.
 
 a=10
 b=20

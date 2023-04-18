@@ -5,7 +5,8 @@
 
 # 1a=10
 # print(1a)     # variable name start with a number hence it is an error 
-
+name="akhand"
+print(name)
 a1=10
 print(a1)
 
